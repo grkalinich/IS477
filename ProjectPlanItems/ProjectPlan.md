@@ -39,7 +39,7 @@ I have gotten permission to work on this project individually.
 - Source: Kaggle - https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state?select=Unemployment+in+America+Per+US+State.csv
 - Description: I have downloaded this csv from Kaggle, but the data is originally from the Bureau of Labor Statistics. It includes total unemployment and the percentage of the labor force that is unemployed, broken down by State/Area.
 
-Since I plan on looking at the data by state and year, I will integrate this data by state and year. This will help analyze the relationships needed for this project. Each dataset has that information along with FIPS (Federal Information Processing Standard) codes. To see an example of each dataset you can see the file "Datasets Examples.ipynb" where I have loaded them and show 5 random samples from the year 2022.
+Since I plan on looking at the data by state and year, I will integrate this data by state and year. This will help analyze the relationships needed for this project. Each dataset has that information along with FIPS (Federal Information Processing Standard) codes. To see an example of each dataset you can see the file [DatasetsExamples.ipynb](DatasetsExamples.ipynb) where I have loaded them and show 5 random samples from the year 2022.
 
 
 ### Timeline
